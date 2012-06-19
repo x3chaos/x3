@@ -1,0 +1,27 @@
+name: x3
+main: org.x3.Main
+version: 1.2
+author: x3chaos
+
+commands:
+    rules:
+        description: x3server rules
+        usage: /rules
+    motd:
+        description: Display the server MOTD.
+        usage: /motd
+    mods:
+        description: Display names of mods.
+        usage: /mods
+    mail:
+        description: Send mail to another user.
+        usage: /mail <target> <message...>
+        aliases: [m, send]
+    mail get:
+        description: Get the unread mail count of another user or yourself.
+        usage: /mail get [user]
+
+permissions:
+    x3.mail.purge:
+        description: Allows purging of all mailboxes.
+        default: false

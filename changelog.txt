@@ -1,0 +1,18 @@
+CHANGELOG
+
+v1.2:
+	- Revamp of mail handling, cleaner code (woooo)
+	- Allowed console to get and send mail
+
+v1.1:
+    - Added mail system support
+    - Fixed bugs in mail saving and caching
+    - Added support for /mail, /m, and /send
+
+v1.0:
+    - Added MOTD support
+    - Added support for /mods and /motd
+
+TODO
+    - Fix exploits in /mail
+    - Allow console to receive mail

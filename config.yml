@@ -1,0 +1,12 @@
+#------------------------#
+# x3server native config #
+#------------------------#
+motd: Welcome to x3server, %p!
+mods:
+    - KajTaotsu
+    - shozanmario93
+rules:
+    - 1. No griefing, period.
+    - 2. The ops and mods step in when the admin cannot.
+    - 3. Have fun!
+    - Report any griefing to x3chaos or a mod.
