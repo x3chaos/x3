@@ -1,8 +1,8 @@
 CHANGELOG
 
 v1.2:
-	- Revamp of mail handling, cleaner code (woooo)
-	- Allowed console to get and send mail
+    - Revamp of mail handling, cleaner code (woooo)
+    - Allowed console to get and send mail
 
 v1.1:
     - Added mail system support

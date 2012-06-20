@@ -1,5 +1,5 @@
 name: x3
-main: org.x3.Main
+main: com.github.x3chaos.x3.Main
 version: 1.2
 author: x3chaos
 
@@ -13,6 +13,7 @@ commands:
     mods:
         description: Display names of mods.
         usage: /mods
+        aliases: [moderators]
     mail:
         description: Send mail to another user.
         usage: /mail <target> <message...>
